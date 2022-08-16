@@ -1,0 +1,9 @@
+@use'../custom' as *;
+
+.resources_container{
+    padding-top: 5rem;
+
+    h1 {
+        color: $bg3;
+    }
+}
